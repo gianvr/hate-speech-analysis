@@ -1,1 +1,1 @@
-# hate-speech-analysis
+# Classificando discurso de ódio em um dataset com tweets com palavras e frases ofensivas
